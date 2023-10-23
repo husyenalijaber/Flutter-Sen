@@ -1,0 +1,3 @@
+Create a new Flutter program > go to the 'lib' folder > open 'main.dart' > replace the existing code with my code.
+
+Note: Don't worry, this program can definitely be run.
